@@ -67,3 +67,14 @@ Files created
 - `tests/test_split.py` - small unit test
 
 Enjoy and iterate!
+
+
+*Project Author Information**
+------------------------------
+- **Name:** Mayank Agrawal  
+- **University:** Indian Institute of Technology (IIT) Kanpur  
+- **Department:** Civil Engineering  
+
+This information is added to associate this repository with my internship application.
+
+
